@@ -1,0 +1,31 @@
+.Table:hover {
+    background-color: rgb(198, 219, 240);
+  }
+
+  .Data:hover {
+    background-color: rgb(198, 219, 240);
+  }
+
+  .td {
+    vertical-align: middle;
+  }
+
+  .button:hover{
+    background-color: rgb(198, 219, 240); 
+  }
+	
+  .button {
+	  border: none;
+	  color: white;
+    background-color: #ffffff;
+	  cursor: pointer;
+	}
+	
+	.button1 {margin-top: 180px;
+            height: 40px;
+            width: 100px;
+  }
+	.button2 {margin-top: 150px;
+            height: 35px;
+            width: 75px;
+  }
